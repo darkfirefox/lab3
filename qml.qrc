@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>WizardMainForm.qml</file>
+        <file>Step1.qml</file>
+        <file>Step1Form.ui.qml</file>
+        <file>Step2.qml</file>
+        <file>Step2Form.ui.qml</file>
+        <file>Step3.qml</file>
+        <file>Step3Form.ui.qml</file>
+        <file>MainSreen.qml</file>
+        <file>MainSreenForm.ui.qml</file>
+        <file>Category.qml</file>
+        <file>CategoryForm.ui.qml</file>
+        <file>CreateAccount.qml</file>
+        <file>CreateAccountForm.ui.qml</file>
+        <file>EditAccount.qml</file>
+        <file>EditAccountForm.ui.qml</file>
+        <file>EditOperation.qml</file>
+        <file>EditOperationForm.ui.qml</file>
+        <file>Accounts.qml</file>
+        <file>AccountsForm.ui.qml</file>
+        <file>Dashboard.qml</file>
+        <file>DashboardForm.ui.qml</file>
+        <file>chart.png</file>
+    </qresource>
+    <qresource prefix="/wizard"/>
+</RCC>
